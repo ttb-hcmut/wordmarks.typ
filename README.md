@@ -6,6 +6,6 @@ Collection of wordmarks of popular typesetting languages and word processors and
 | Name | Usage | Preview | Note |
 |------|-------|---------|------|
 | Typst | `#typst` | | |
-| Tex   | `#tex`   | | |
-| Latex | `#latex` | | |
+| TeX   | `#tex`   | | |
+| LaTeX | `#latex` | | |
 | Quarkdown | `#quarkdown` | | |
