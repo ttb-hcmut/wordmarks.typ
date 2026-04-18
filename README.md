@@ -9,3 +9,4 @@ Collection of wordmarks of popular typesetting languages and word processors and
 | TeX   | `#tex`   | | |
 | LaTeX | `#latex` | | |
 | Quarkdown | `#quarkdown` | | |
+| OCaml | `#ocaml` | | |
